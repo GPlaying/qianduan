@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>css样式</title>
+	<style type="text/css">
+	h1{color:rad;}
+	p{font-size:30px;font-family: "隶书"}
+	</style>
+</head>
+<body>
+<h1 style="color: pink; ">css层叠样式</h1>
+<p>你好！</p>
+<p>GOOD!</p>
+<p>GOOD!</p>
+<p>GOOD!</p>
+</body>
+</html>
